@@ -1,0 +1,7 @@
+capture_monitor: 1
+font_size: 18
+ignored_patterns:
+- '^FPS: \d+$'
+source_language: fr
+target_language: en
+update_interval: 3000
