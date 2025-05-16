@@ -1,7 +1,6 @@
 argostranslate==1.9.6
 mss==10.0.0
 Pillow==11.2.1
-PyQt5==5.15.11
 PySide6==6.9.0
 pytesseract==0.3.13
 PyYAML==6.0.2
