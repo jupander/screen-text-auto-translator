@@ -1,11 +1,7 @@
-capture_monitor: 3
+capture_monitor: 1
 font_size: 18
 ignored_patterns:
 - '^FPS: \d+$'
 source_language: fr
 target_language: en
-update_interval: 2000
-window_position_x: 3477
-window_position_y: -406
-window_size_height: 2421
-window_size_width: 1378
+update_interval: 3000
