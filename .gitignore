@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # local settings
-settings.yaml
+./settings.yaml
 
 # C extensions
 *.so
@@ -175,3 +175,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+settings.yaml
